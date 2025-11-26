@@ -16,13 +16,11 @@ Este é um script simples em Python desenvolvido para consultar o histórico de 
 
 
 2. Entra no diretório:
-   ```bash
-  cd Slack-Status-Checker-Python ```
+   ```bash cd Slack-Status-Checker-Python ```
 
 
-3. Execute o script:
- ```bash
- python3 slackCheckStatus.py ```
+4. Execute o script:
+ ```bash python3 slackCheckStatus.py ```
 
 
 ## Saida 
