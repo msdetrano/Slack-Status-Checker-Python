@@ -14,5 +14,13 @@ Este é um script simples em Python desenvolvido para consultar o histórico de 
    ```bash
    git clone [https://github.com/msdetrano/Slack-Status-Checker-Python.git]
 
+2. Entra no diretório:
+   '''bash
+  cd Slack-Status-Checker-Python
+
+3. Execute o script:
+   '''bash
+   python3 slackCheckStatus.py
+
 ## Saida 
 <img width="793" height="514" alt="image" src="https://github.com/user-attachments/assets/a39da3e3-42a8-4014-b79a-71c62c8f2cd6" />
