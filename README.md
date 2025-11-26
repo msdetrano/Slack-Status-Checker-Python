@@ -19,7 +19,7 @@ Este é um script simples em Python desenvolvido para consultar o histórico de 
   cd Slack-Status-Checker-Python
 
 3. Execute o script:
- ```bash
+ 
    python3 slackCheckStatus.py
 
 ## Saida 
