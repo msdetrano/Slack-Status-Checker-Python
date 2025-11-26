@@ -12,15 +12,16 @@ Este é um script simples em Python desenvolvido para consultar o histórico de 
 
 1. Clone o repositório:
     ```bash
-   git clone [https://github.com/msdetrano/Slack-Status-Checker-Python.git] ```
+   git clone [https://github.com/msdetrano/Slack-Status-Checker-Python.git]
 
 
 2. Entra no diretório:
-   ```bash cd Slack-Status-Checker-Python ```
+   cd Slack-Status-Checker-Python
 
 
 4. Execute o script:
- ```bash python3 slackCheckStatus.py ```
+  python3 slackCheckStatus.py
+    ```
 
 
 ## Saida 
